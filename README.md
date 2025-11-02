@@ -1,18 +1,26 @@
 # Declaration of Individual Emancipation
 
-**Please download "Declaration vX.X.X.pdf" to read the current version.**
+> **To read the current version, download:**  
+> **`Declaration_vX.X.X.pdf`**
 
-This repository contains a living draft **Declaration of Individual Emancipation**, outlining principles of personal sovereignty, rights, and voluntary association for individuals. The text is intended as a foundation for self-governance and ethical interaction, and may be adopted, adapted, or used piecemeal to suit the beliefs and conscience of those who interact with it.
+---
 
-This document competes with similar documents in the following ways:
+This repository contains a **living draft** of the *Declaration of Individual Emancipation*—a statement of personal sovereignty, rights, and voluntary association. It’s meant as both a philosophical and practical framework for self-governance, open for anyone to adopt, adapt, or use piecemeal according to their own views and conscience.
 
-1. This Declaration exhaustively lists all the grievances and rights that a decent individualist might care about, making it the most comprehensive such document.
-2. It is legally- and historically-grounded, and written to appeal to laypersons, lawyers, and political scholers alike.
-3. It contains extensive footnotes which link this Declaration (particularly its grievances and claims to authority) to prior work, legal precedents, and historical facts.
+### What Makes It Different
 
-This version is still incomplete in many ways, as existing governments have committed so many abuses in so many contexts that many oversights and omissions persist in the Declaration which have not yet been remedied. Please suggest what is missing.
+1. **Comprehensive**—It aims to cover every major grievance and right that a decent individualist would care about, making it the most complete document of its kind.  
+2. **Grounded**—It connects ideas of freedom to real history and law, written to make sense to ordinary readers, lawyers, and scholars alike.  
+3. **Well-Referenced**—Its footnotes link claims and grievances to prior work, legal context, and historical fact.
 
-Your feedback is strongly encouraged. Please create Issues or Pull Requests in this repo to suggest changes and improvements to the Declaration. As a collaborative authorship project, we can use the version control features of git/GitHub itself as our co-authoring political process (doing so worked great for the Nostr protocol).
+### Current Status
+
+This version is still incomplete. Governments have committed so many abuses, in so many ways, that the record can never be finished—but the gaps can always be narrowed. Suggestions for what’s missing are welcome.
+
+### Contributing
+
+Feedback and improvements are encouraged. Open **Issues** or **Pull Requests** to suggest changes.  
+This project treats git and GitHub as tools for collaborative authorship—a working model of voluntary, distributed self-governance, similar to how the Nostr protocol was built.
 
 ## Files
 
