@@ -1,6 +1,6 @@
 # Declaration of Individual Emancipation
 
-**Please download "Declaration vX.X.X.pdf" to read the current version of the Declaration.**
+**Please download "Declaration vX.X.X.pdf" to read the current version.**
 
 This repository contains a living draft **Declaration of Individual Emancipation**, outlining principles of personal sovereignty, rights, and voluntary association for individuals. The text is intended as a foundation for self-governance and ethical interaction, and may be adopted, adapted, or used piecemeal to suit the beliefs and conscience of those who interact with it.
 
