@@ -4,7 +4,7 @@ subtitle: |
   from the Government of the United States  
   and all systems of unfree command
 shorttitle: Declaration
-version: v0.1.2
+version: v0.1.3
 author: ""
 documentclass: scrartcl
 classoption:
@@ -57,6 +57,11 @@ header-includes:
    }
   }
 ---
+\begin{center}
+\textit{Draft document—each article may be adopted, adapted, or used piecemeal. All who read this text are invited to revise, expand, or reshape it to reflect their own principles and political conscience. Forking, modification, and feedback (via issues or pull requests) are encouraged.}
+\end{center}
+\vspace{1em}
+
 ## Preamble
 
 \setlength{\parindent}{2em}
@@ -165,7 +170,8 @@ The law of freedom begins within.
 ## Grievances
 
 The following wrongs—national in scope, deliberate in design, and defended by secrecy—have extinguished the moral contract between the people and the federal government of the United States.
-They are entered into record as sufficient cause necessitating peaceful separation, with full respect for the several States that may yet uphold liberty within their own jurisdictions.
+These articles are spoken from the standpoint of a single individual, but they describe wrongs general to humankind.
+They are hereby entered into record as sufficient cause necessitating peaceful separation, with full respect for the several States that may yet uphold liberty within their own jurisdictions.
 
 ### General Indictments
 
@@ -206,7 +212,7 @@ Federal courts and agencies coerce disclosure of private keys and passwords, bre
 ##### **Mass Surveillance.** {#sec:mass-surveillance}
 Federal intelligence agencies conduct, on their own free citizens, dragnet spying so comprehensive it is renamed surveillance, spanning every channel of private communication and movement, reversing the presumption of innocence into universal suspicion.[^masssurveillance][^educationalsurveillance] (see[@sec:unwatched])
 
-[^massSurveillanceImpact]: As of 2023, Section 702 of the Foreign Intelligence Surveillance Act authorized the collection of communications from over **246,000** foreign “targets,” yet internal audits show that these programs routinely intercept tens of millions of domestic messages “incidentally.” In 2022 alone, FBI analysts conducted more than **278,000 warrantless searches** of U.S. citizens’ emails, texts, and call data—many involving political protesters, journalists, and donors to campaigns of both major parties. Programs such as **FAIRVIEW** and **STORMBREW**, operated with AT&T and Verizon, route copies of all internet traffic flowing through major backbone cables to NSA repositories, where they are filtered post-collection by algorithms trained to flag “selectors” like phone numbers and keywords. Surveillance conducted under Executive Order 12333, which faces virtually no judicial oversight, sweeps in full-take satellite and fiber-optic data from more than **50 global interception points**. The technical effect is continuous: every digital conversation touching a U.S. server becomes, by design, subject to capture and retention.
+[^ masssurveillance]: As of 2023, Section 702 of the Foreign Intelligence Surveillance Act authorized the collection of communications from over **246,000** foreign “targets,” yet internal audits show that these programs routinely intercept tens of millions of domestic messages “incidentally.” In 2022 alone, FBI analysts conducted more than **278,000 warrantless searches** of U.S. citizens’ emails, texts, and call data—many involving political protesters, journalists, and donors to campaigns of both major parties. Programs such as **FAIRVIEW** and **STORMBREW**, operated with AT&T and Verizon, route copies of all internet traffic flowing through major backbone cables to NSA repositories, where they are filtered post-collection by algorithms trained to flag “selectors” like phone numbers and keywords. Surveillance conducted under Executive Order 12333, which faces virtually no judicial oversight, sweeps in full-take satellite and fiber-optic data from more than **50 global interception points**. The technical effect is continuous: every digital conversation touching a U.S. server becomes, by design, subject to capture and retention.
 
 [^educationalsurveillance]: Since the early 2000s, the U.S. Department of Education has required schools receiving federal funding to install “filtering and monitoring” software on student devices—systems that log emails, messaging, keystrokes, browsing, and social media activity. By 2020, over **90%** of U.S. public schools reported using at least one such platform. These programs, including Gaggle, GoGuardian, and Bark, flag “suspicious words” and automatically alert administrators, often forwarding data to law enforcement or child protective services. A 2023 state audit documented more than **15,000 automated alerts** in a single district, **27%** of which involved student health, sexuality, or political keywords unrelated to violence or safety. Vendors maintain proprietary databases of flagged phrases—undisclosed to parents or students—and store the resulting behavioral data for up to **seven years**, with few limits on resale to analytics firms.
 
@@ -235,7 +241,12 @@ The Internal Revenue Service confiscates property administratively, leaving the 
 [^civilforfeiture]: Civil asset forfeiture allows law-enforcement agencies to seize property suspected of involvement in crime without charging the owner. Between 2000 and 2022, federal and state authorities took in more than \$68 billion dollars through such seizures. Over 80 percent of cases are civil, meaning the property itself is sued (*United States v. \$124,700 in U.S. Currency*, etc.), and owners must prove the assets’ innocence. Median seizures are small—often under 1,500 dollars—yet recovery requires hiring counsel and filing within strict deadlines; most owners never contest because legal costs exceed the value taken. The Department of Justice’s “equitable-sharing” program returns up to 80 percent of proceeds to local police departments, creating a direct financial incentive. Audits show that a majority of forfeitures occur without accompanying convictions, and some departments fund routine expenses—vehicles, salaries, office coffee—from seized cash. In many states there is no requirement to report how the money is spent.
 
 ##### **Suspension of Personhood.** {#sec:suspension-personhood}
-Borders, checkpoints, and workplaces nullify basic rights, treating movement or dependence as surrender of self. (see[@sec:continuous-sovereignty])
+Borders, checkpoints, and workplaces nullify basic rights, treating movement or dependence as surrender of self. (see[@sec:continuous-sovereignty],[@sec:no-contract-by-presence])
+
+##### **The Drug War.** {#sec:drug-war}  
+Under the banner of “drug control,” the federal government has criminalized the act of self-administration, conducted paramilitary raids, and filled prisons with nonviolent offenders—eroding jury rights, bodily autonomy, and equal protection while making drugs more dangerous through prohibition-driven adulteration and black-market violence.[^war-on-drugs] (see[@sec:drugs],[@sec:no-knock-raids])
+
+[^war-on-drugs]: The so-called “War on Drugs” has produced a documented record of systemic illegality and corruption. Since President Nixon’s 1971 declaration of a “war on drugs,” over 30 million Americans have been arrested for drug offenses, the vast majority for possession. By the 1990s, over half of federal prisoners were incarcerated for nonviolent drug crimes. Police departments have executed tens of thousands of no-knock raids annually in the name of drug enforcement—most infamously the 2020 killing of Breonna Taylor in Louisville—resulting in hundreds of civilian deaths each year. During the 1980s, CIA-backed Contra networks trafficked tons of cocaine into Los Angeles and other U.S. cities to fund covert operations in Nicaragua, as later confirmed by a 1998 Department of Justice Inspector General report. The ensuing “crack epidemic” was met not with treatment but with militarized policing and mandatory minimum sentencing, which disproportionately targeted Black communities. Asset-forfeiture statutes allowed law enforcement to seize billions of dollars in property without trial, creating direct financial incentives for arrests. Abroad, U.S.-funded eradication programs in Colombia, Mexico, and Southeast Asia displaced rural populations and enriched cartels and local militias. Despite trillions in spending, drug availability and potency have increased while purity and safety have declined; the War on Drugs has chiefly served to criminalize illness, poverty, and dissent.
 
 ### Violations of Mind and Conscience {#sec:mind-conscience}
 
@@ -256,8 +267,15 @@ Federal and state systems distort jury pools through background checks, data min
 ##### **Licensing of Belief.** {#sec:licensing-belief}
 In practice, the Internal Revenue Code grants legal protection for belief only to state-recognized religious organizations, making freedom of conscience dependent on government recognition. (see[@sec:freedom-conscience])
 
+##### **No Proxy Consent.** {#sec:no-proxy-consent}  
+Inability to consent does not grant consent to another. Where consent is impossible, any act remains a violation, even if necessity compels it. (see[@sec:no-immunity-enforcement])
+
 ##### **Genital Mutilation and Other Cosmetic Surgeries on Children.** {#sec:genital-mutilation}
-The federal government has failed to protect children from genital mutilation, including infant circumcision and infant sex-normalization surgery (for intersex conditions), absent any remotely realistic or sound medical necessity; so has it failed to protect many children from the plastic surgery ambitions of their parents. A lack of ability to give consent cannot count as consent, and the natural body is born right and needs no correction. The historical lack of anesthetics used in these surgeries fully damns these practices as radically sadistic.
+The federal government has failed to protect children from non-consensual alteration of their bodies, including infant circumcision and so-called “sex-normalization” surgeries on intersex infants.[^circumcision][^trans] These procedures, performed without the subject’s consent and absent genuine medical necessity, violate bodily sovereignty and the natural multiplicity of human form. The natural body is born right and needs no correction. The historical lack of anesthetics used in these surgeries fully damns these practices as radically sadistic. (see [@sec:no-proxy-consent])
+
+[^trans]: The question of children’s self-directed modification of their bodies is unresolved within this Declaration. The matter involves distinct issues of agency, maturity, and identity that require further reflection and testimony from those directly shaped by such experiences. It may be most fitting for a future Declaration—authored by those within the trans community—to articulate principles adequate to this question. What this Declaration does affirm with certainty is the right of every person to freedom from cosmetic or gender-assignment surgery imposed or encouraged by parents or guardians before the individual has reached sufficient maturity to decide for themselves. This document therefore withholds judgment on self-chosen modification, while rejecting all forms of coerced or proxy consent concerning a child’s body.
+
+[^circumcision]: The issue of circumcision deserves special mention. As an *individual* Declaration, this document is incompatible with circumcision and all forms of medically unnecessary surgery on infants and children, for the following reasons: (1) As a matter of who owns children, we affirm the child’s self-ownership and reject all other claims to their body. A child cannot perform adequately informed consent and therefore cannot consent to elective surgery. (2) As a matter of personhood, we reject the ontological primacy of collective persons—nations, religions, gods, or cultures—and affirm instead the reality and sovereignty of individual persons and their bodies. (3) As this Declaration rejects euphemism, it must also reject the redefinition of genital mutilation to circumcision by mere fiat. It is self-evident that infants suffer and would not choose it, and probable that they experience it as betrayal by their world or caregivers. Infants are conscious, intelligent, and continuous with the persons they become. The natural body is born right and needs no correction. Judaism might one day perfect its covenant by making one small cut to its doctrine rather than to its children; such a gesture would reconcile it beautifully with this Declaration. Each article herein may be adopted piecemeal, and readers are encouraged to fork and amend as they will. Yet the doctrine of individual sovereignty cannot coexist with the marking of ownership upon children’s bodies or the supremacy of collective persons. If circumcision becomes fully reversible through future medical technologies, this would largely—but not wholly—resolve the issue, as the greater harm lies in irreversibility rather than in initiatic pain. This Declaration is a personal and opinionated political stance, not a universal truth, and remains open to future arguments that might better resolve the paradox between a child’s autonomy and the right of others to guide their upbringing.
 
 ### Violations of the Legislature
 
@@ -404,7 +422,7 @@ Federal and local law enforcement disproportionately target, arrest, and kill Bl
 [^implicitbias]: Decades of psychological research, beginning with the Implicit Association Test developed at the University of Washington by Anthony Greenwald and colleagues, show that most individuals—including members of the marginalized groups themselves—exhibit automatic negative associations toward Black faces, women, and others marked by social stigma. These biases operate below conscious awareness and shape perception, threat assessment, and split-second decision-making, revealing the depth of cultural conditioning.
 
 ##### **Police Gangs and White-Supremacist Infiltration.** {#sec:police-gangs}
-Federal, state, and local law enforcement agencies have long tolerated the organization of armed cliques and white-supremacist factions within their ranks. These groups operate as secret fraternities of violence—keeping kill tallies, marking allegiance with tattoos, celebrating shootings, and treating human life as a blood sport. Recruitment, oversight, and internal investigations routinely ignore or conceal their presence, allowing organized prejudice and criminal impunity to persist criminal violence to persist within public institutions.[^policegangs] (see[@sec:racist-policing])
+Federal, state, and local law enforcement agencies have long tolerated the organization of armed cliques and white-supremacist factions within their ranks. These groups operate as secret fraternities of violence—keeping kill tallies, marking allegiance with tattoos, celebrating shootings, and treating human life as a blood sport. Recruitment, oversight, and internal investigations routinely ignore or conceal their presence, allowing organized prejudice and criminal impunity to persist ouwithin public institutions.[^policegangs] (see[@sec:racist-policing])
 
 [^policegangs]: The FBI warned in 2006 of white-supremacist infiltration of law enforcement and reaffirmed the threat in 2020. Los Angeles County Sheriff’s Department “deputy gangs”—including the Executioners, Banditos, and Grim Reapers—have been documented for decades, their existence confirmed in sworn testimony. These groups have celebrated shootings, falsified reports, and intimidated whistleblowers while continuing to receive public funding and state protection.
 
@@ -496,7 +514,9 @@ The federal executive governs by continuous declaration of crisis.[^perpetualEme
 [^perpetualEmergency]: The National Emergencies Act of 1976 allows presidents to proclaim a “national emergency” by executive order, unlocking over 120 statutory powers otherwise inaccessible under normal law—ranging from asset seizure and export controls to military deployment, sanctions, and domestic communications monitoring. These declarations can be renewed indefinitely, and Congress can terminate them only by joint resolution subject to presidential veto. As of 2025, more than fifty such emergencies remain active, including the 1979 sanctions on Iran, post-9/11 counterterrorism authorities, sanctions on Russia, North Korea, Syria, Venezuela, and China, the 2020 COVID-19 health emergency (partially retained for supply-chain and border enforcement), and a 2025 renewal concerning energy production and the southern border. This structure enables governance by continuing exception rather than statute, rendering “emergency” the permanent administrative form of the state.
 
 ##### **Undeclared Wars.** {#sec:undeclared-wars}
-Military force is used globally without congressional declaration or genuine consent. (see[@sec:foreign-policy])
+Military force is used globally without congressional declaration or genuine consent.[^undeclared-wars] (see[@sec:foreign-policy])
+
+[^undeclared-wars]: The United States, chiefly through the Central Intelligence Agency, has organized or supported coups and regime overthrows around the world without congressional declaration or public consent. In 1953, the CIA’s Operation Ajax overthrew Iranian Prime Minister Mohammad Mosaddegh; in 1954, its Operation PBSUCCESS removed Guatemalan President Jacobo Árbenz. Declassified records show CIA involvement in the removal and killing of Patrice Lumumba in the Congo in 1960, coordination with General Suharto’s coup and mass purges in Indonesia in 1965, and direction of covert programs to destabilize and overthrow Chilean President Salvador Allende in 1973. The Iran–Contra hearings of 1987 revealed CIA participation in illegal arms sales and funding of coup and insurgent activity in Central America. Each of these actions, many now acknowledged in official U.S. documents, replaced independent or elected governments with regimes aligned to American policy—wars of overthrow waged without declaration or consent.
 
 ##### **Oil Wars and Proxy Interventions.** {#sec:oil-wars}
 The United States wages resource wars under the banner of freedom. (see[@sec:foreign-policy])
@@ -539,6 +559,9 @@ Congress abdicates its legislative and oversight duties to executive agencies an
 ##### **Corruption of Language.** {#sec:corruption-language}
 Federal discourse now calls coercion “consent,” fear “order,” and surveillance “safety.” (see[@sec:truth-governance])
 
+##### **Manipulation of the UFO Narrative.** {#sec:ufo-deception}  
+For decades, the federal government has treated the UFO issue as an instrument of influence, not inquiry—alternately mocking, hyping, or hinting at disclosure to steer public mood and attention. The recent rebranding as “UAPs,” with staged leaks and theatrical hearings, continues the same strategy of managed uncertainty: manufacturing fascination, confusion, and fear as tools of control. (see[@sec:coercion])
+
 ## The Declaration
 
 Therefore, I, [Full Name], being of lawful age and sound mind, do solemnly declare and publish:
@@ -555,6 +578,20 @@ E. That I invite all persons and institutions to relate to me henceforth by volu
 
 ## The Co-Sovereigns’ Bill of Rights
 
+### Rights of Origin
+
+##### **Freedom from Coercion.** {#sec:coercion}
+Coercion—the use of force, interpersonal or legal threat, or lies to compel or choose for another—is banned. (see[@sec:non-coercion])
+
+##### **Right of Inherent Defense.** {#sec:inherent-defense}
+The capacity to defend one’s body, life, and liberty is innate and cannot be surrendered. Law may define its bounds but not its existence, for a living being cannot consent to forfeit the power to resist harm. (see[@sec:self-defense],[@sec:non-harm],[@sec:autonomy],[@sec:criminalization-sovereign-defense])
+
+##### **Primacy of Individual Right.** {#sec:individual-right}  
+All law derives from the rights of individual persons. No collective, institution, or government possesses rights except as aggregations or delegations of those individuals. Only individual, atomic rights are valid in origin; all other claims of authority are derivative and revocable.
+
+##### **Right of Recognition.** {#sec:recognition}  
+Animals, children, and machines, and objects or elements of nature itself possess individual character deserving regard; lack of speech does not void individuality or standing; those who can perceive must strive to see and give voice to every being’s own nature.
+
 ### Rights of the Body and the Home
 
 ##### **Right of Bodily Autonomy.** {#sec:bodily-autonomy}
@@ -562,12 +599,6 @@ Each person is sovereign over their own body and life; no law may dictate its us
 
 ##### **Human Dignity.** {#sec:human-dignity}
 Every person possesses inherent dignity that no law, office, or custom may degrade. Humiliation, dehumanization, and degrading treatment are forbidden in policing, custody, medicine, labor, and public administration alike. (see[@sec:bodily-autonomy],[@sec:protection-cruelty],[@sec:equality-law],[@sec:classless-justice],[@sec:suspension-personhood])
-
-##### **Freedom from Coercion.** {#sec:coercion}
-Coercion—the use of force, interpersonal or legal threat, or lies to compel or choose for another—is banned. (see[@sec:non-coercion])
-
-##### **Right of Inherent Defense.** {#sec:inherent-defense}
-The capacity to defend one’s body, life, and liberty is innate and cannot be surrendered. Law may define its bounds but not its existence, for a living being cannot consent to forfeit the power to resist harm. (see[@sec:self-defense],[@sec:non-harm],[@sec:autonomy],[@sec:criminalization-sovereign-defense])
 
 ##### **Right to Be Unbranded.** {#sec:unbranded}
 No authority may perform or require any act that marks, tags, implants, or otherwise inscribes the body or identity for identification or control, nor condition any benefit or access upon such submission.
@@ -691,6 +722,9 @@ No one shall be compelled to recognize the authority, legitimacy, or personhood 
 ##### **Separation of Church and State.** {#sec:separation-church-state}
 No religion or non-violent ritual of any kind shall be banned, nor any religion or ritual established by secular covenant. To establish easy and simple harmony amongst all the peoples of Earth, religions are encouraged to formalize their tenets as a separate document covenanted amongst themselves, and not superceeding or exceeding this Declaration in its wordly, good-faith effect or intent.
 
+##### **No Institutional Holidays.** {#sec:no-institutional-holidays}  
+No state, corporation, or institution shall establish or endorse any holiday, festival, or day of observance. When celebration is decreed from above, it turns culture into propaganda and tradition into commerce.
+
 ##### **Freedom of Expression.** {#sec:free-expression}
 Speech, writing, art, code, and vehement dissent are beyond license or any requirement of prior permission. (see[@sec:free-association],[@sec:freedom-inquiry],[@sec:freedom-conscience],[@sec:digital-autonomy])
 
@@ -779,6 +813,9 @@ Law shall recognize no superior or inferior class of person; wealth, rank, and r
 ##### **Right to a Truly Speedy Trial.** {#sec:speedy-trial}
 No accused person shall be kept waiting for judgment. Proceedings shall begin and conclude within a reasonable span—measured in days, not years—and any delay beyond necessity, whether by bureaucracy, neglect, or design, violates this right.
 
+##### **Right to Peer Defense.** {#sec:peer-defense}  
+Every person has the right to be defended and represented by a peer of their choosing, without requirement of legal license or institutional approval. Any number of peers may be called to aid in defense or interpretation. Laws that cannot be understood or argued by ordinary citizens and their peers are void. (see[@sec:brevity-law])
+
 ##### **Right to Random Jury Composition.** {#sec:random-jury}
 Juries shall be drawn by truly random selection from the whole citizenry, without digital profiling, background screening, demographic manipulation, or disqualification through ideological questioning. (see[@sec:jury-selection-manipulation])
 
@@ -790,6 +827,11 @@ No punishment before conviction. (see[@sec:punishment-before-conviction])
 
 ##### **Proportionality.** {#sec:proportionality}
 Penalties must match actual harm. (see[@sec:non-harm],[@sec:protection-cruelty],[@sec:responsibility],[@sec:no-punishment-poverty])
+
+##### **No Immunity in Enforcement.** {#sec:no-immunity-enforcement}  
+Those who enforce law remain bound by it. Every act of enforcement that violates a law, even in pursuit of its observance, is itself a violation. Necessity may excuse, but never sanctify, transgression; enforcement must police its own excesses first.[^police-violations]
+
+[^police-violations]: In the United States, police officers routinely commit acts that are plainly illegal—assault, perjury, unlawful entry, and destruction of property—under the ordinary meaning of the law. The practice known as *testilying*, or police perjury, was identified by New York judges in the 1970s and remains widely acknowledged within the justice system. Federal investigations have repeatedly documented falsified reports, planted evidence, and patterns of violence carried out without legal justification; major cities have paid billions in settlements for proven police misconduct, while the officers involved almost never face criminal penalty. Over time, this has normalized the belief that police are not bound by law but authorized to break laws in the act of enforcing them.
 
 ##### **Protection from Cruelty.** {#sec:protection-cruelty}
 Torture, isolation, forced psychiatric treatment, and indefinite confinement are forbidden. (see[@sec:cruel-punishment],[@sec:informed-consent],[@sec:bodily-autonomy])
@@ -875,8 +917,16 @@ Trade between peoples shall honor human dignity. (see[@sec:global-economic-polic
 ##### **Government by Consent.** {#sec:government-consent}
 Power derives only from individual and state consent; emergency rule must expire unless renewed by those governed. (see[@sec:perpetual-emergency-rule])
 
+##### **No Contract by Presence.** {#sec:no-contract-by-presence}  
+No person enters into obligation or law by mere birth, presence, or occupation of a territory, nor by reading a sign or clicking “I Agree.” Consent to any contract or law must be deliberate, informed, and non-coerced—an act between distinct and conscious parties, not passive exposure to terms or jurisdiction.
+
 ##### **Peaceful Foreign Policy.** {#sec:foreign-policy}
 War requires declaration, objective, and public consent. (see[@sec:undeclared-wars],[@sec:war-lies],[@sec:war-machine],[@sec:humanitarian-priority])
+
+##### **No Standing Armies.** {#sec:no-standing-armies}  
+No state, corporation, or institution shall maintain a permanent standing army. Obedience to a permanent military caste is anathema to a free people. Military training may be available to all by voluntary, transparent, and locally governed programs; defence shall be organized by ad-hoc, self-organized militias whose mandate is strictly defensive, temporally limited, and immediately recallable by the communities they serve. Professionalized, expeditionary, or permanent martial institutions—those that concentrate force, normalize obedience, or project power beyond community defence—are forbidden.[^standing-armies]
+
+[^standing-armies]: History shows that standing armies, once established, rarely remain confined to their original purpose. In seventeenth-century England, the Stuart kings’ troops enforced royal decrees, crushed dissent, and helped ignite civil war—prompting Parliament’s lasting cry, “No standing armies!” In the early United States, the founders warned that peacetime militaries would enslave the citizenry they claimed to protect; Jefferson called them “instruments of tyranny.” In Prussia, and later in unified Germany, the army became the state itself—its officers sat in parliament, shaped education, and molded an entire nation into submission, laying the groundwork for total war.
 
 ##### **Humanitarian Priority.** {#sec:humanitarian-priority}
 Resources shall favor healing, education, and building over armament. Provisions may be made for a charity–industrial–cooperative complex to supplant the military–industrial–congressional complex. (see[@sec:war-machine],[@sec:foreign-policy],[@sec:peaceful-adjudication])
@@ -969,13 +1019,23 @@ No one shall be coerced into registering, reporting, training, or serving in any
 ### Digital Rights
 
 ##### **Right to Internet Access.** {#sec:internet-access}
-The Internet being the basic mode of contemporary communication, no one may be banned from it, and provisions may be made to ensure universal free Internet access as a universally-available public utility.
+The Internet being the basic mode of contemporary communication, no one may be banned from it, and provisions may be made to ensure universal free Internet access as a universally-available public utility. (see[@sec:no-paperwork])
+
+##### **No Papers, Please.** {#sec:no-paperwork}  
+No person shall be required to present or fill out papers, identification, or documentation of any kind as a condition of being, movement, work, trade, or the receipt of any good or benefit. Information freely given for mutual coordination is not paperwork. Paperwork begins where power demands proof to permit what is already a right.[^paperwork] (see[@sec:no-contract-by-presence],[@sec:internet-access])
+
+[^paperwork]: Bureaucratic control through paperwork has repeatedly served as an instrument of domination. IBM’s Hollerith machines, leased to Nazi Germany, enabled the census-based identification, deportation, and extermination of millions. In apartheid South Africa, the *dompas* passbook system controlled where Black citizens could live, work, or travel. In the Soviet Union, the *propiska* internal passport bound people to specific cities, limiting movement and opportunity. Each relied on the same principle: that existence requires certification. Today’s digital IDs, licensing systems, and algorithmic verifications continue this legacy under new names.
 
 ##### **Freedom from Non-Consensual Advertising.** {#sec:no-ads}
-Advertisers must obtain prior, written, revocable consent from each individual they advertise to, or face penalty.
+Advertisers must obtain prior, written, revocable consent from each individual they advertise to, or face penalty. (see[@sec:no-paperwork])
+
+##### **No Advertising to Children.** {#sec:no-ads-children}  
+No person, corporation, or institution shall advertise or promote any product, service, or ideology to children. The deliberate manipulation of developing minds for profit is a form of psychological predation.[^child-ads]
+
+[^child-ads]: Advertising to children emerged as a commercial strategy in the early twentieth century, when psychologists working for industry—most notably in the 1920s and 1950s—began designing campaigns that exploited developmental vulnerability. Postwar television introduced characters like Howdy Doody and the Mickey Mouse Club as direct marketing conduits, while breakfast cereals, toy lines, and mascots such as the Kool-Aid Man blurred entertainment and sales. In 1983, the U.S. Federal Trade Commission formally declared that children under eight could not distinguish advertising from programming but, under corporate pressure, abandoned plans for prohibition. Deregulation in the 1980s and the advent of digital media greatly expanded exposure, integrating advertising into the texture of childhood itself. (see[@sec:no-ads],[@sec:no-proxy-consent])
 
 ##### **No Pop-ups.** {#sec:no-popups}
-Pop-up ads are a human rights violation and are banned.
+Pop-up ads are a human rights violation and are banned. (see[@sec:no-paperwork],[@sec:no-ads])
 
 ##### **Right to Be Untracked.** {#sec:be-untracked}
 Websites shall obtain prior written consent for each piece of information they wish to collect from visitors. Tracking users across website, deanonymizing website visitors, and building marketing profiles on strangers are forbidden.
@@ -989,8 +1049,8 @@ Telephone and internet providers shall not privilege certain content providers o
 ##### **Right to Continuous and Digital Justice.** {#sec:digital-justice}
 Courts shall be accessible at all hours through secure digital means, allowing filings, hearings, and judgments without delay. (see[@sec:transparency])
 
-##### **Informational Self-Determination** {#sec:informational-self-determination}
-The right to exercise agency in the direction of one's own data vital to advancing a a safe internet and an ethical digital culture.[^humemstate]
+##### **Informational Self-Determination.** {#sec:informational-self-determination}
+The right to exercise agency in the direction of one's own data vital to advancing a safe internet and an ethical digital culture.[^humemstate]
 
 [^humemstate]: *The Humem State: Artificial Agency and the Ethics of Information Sovereignty* (2022) explores the concept of “humems”—human–memetic hybrids—as emergent civic entities in a post-digital polity. It argues that data itself acquires moral standing once entangled with human identity, and proposes informational self-determination as a successor to privacy: the right not merely to hide one’s data, but to direct its existence, replication, and deletion as extensions of one’s will.
 
@@ -1002,6 +1062,14 @@ Websites which collect personal data or allow user account creation must allow u
 
 ##### **Right to Block.** {#sec:right-to-block}
 Individuals have a right to be permanently left alone, online, by those they choose to block. (see[@sec:association],[@sec:free-association])
+
+### Rights of Modern Convenience
+
+##### **Freedom from Unlabeled Food.** {#sec:unlabeled-food}  
+Every person has the right to know what enters or touches their body. All food, drink, and consumable goods, including any product used on or in the body, must state every ingredient and component in full, without omission or concealment under collective terms like *natural flavor* or *artificial flavor*.
+
+##### **Right to Full Corporate Disclosure.** {#sec:corporate-disclosure}  
+Every product offered for sale must clearly display, on its packaging, the full chain of ownership behind it, including all parent companies, subsidiaries, and controlling interests, traced ultimately to the individual persons who own or profit from it. No entity may hide its origin, affiliation, or beneficiaries behind layers of incorporation or branding.
 
 ## The Constitution of Free Individuals
 
@@ -1144,13 +1212,10 @@ Each person may sign, affirm, or ratify this Declaration privately, in writing, 
 ##### **Collective Ratification.** {#sec:collective-ratification}
 This Declaration, upon its being endorsed by written or digital signature by the majority of residents of any territory, shall supersede all past and prior constitutions, contracts, agreements, or treaties.
 
-##### **Non-Indemnity.** {#sec:non-indemnity}
-Possession of the text of this Declaration shall not be construed as endorsement nor signing of it. (see[@sec:petition])
-
 ### Digital Self-Governance
 
 ##### **Non-Ludditism.** {#sec:non-ludditism}
-Governance practices are to be regularly revised and updated to keep up with changing times and emerging technologies.
+Governance practices shall be regularly revised and updated to keep up with changing times and emerging technologies.
 
 ##### **Use of New & Appropriate Technologies.**
 Specific new technologies, such as blockchain technology, which lend themselves particularly well to governance, shall be adopted immediately.
@@ -1179,6 +1244,17 @@ To effectuate the peaceful transition to and ongoing enactment of self-governanc
 ##### **Rejection of Voting as Default.**
 Because voting stigmatizes and suppresses the losing minority, it is a form of normalized population capture and scapegoating incompatible with this Constitution's logic of peaceful divergence. Voting shall not be forced upon anyone, especially in the form of digital features; nor assumed to be identical with consent or political voice; nor shall the creators of public self-governance software rely primarily on polls to decide the software's design.
 
+##### **Proportional Consent in Expenditure.** {#sec:proportional-consent}  
+Public funds may be spent only with consent proportional to their amount. Small sums may be approved by few; great sums require many.
+
+### Disclaimers
+
+##### **Non-Indemnity.** {#sec:non-indemnity}
+Possession of the text of this Declaration shall not be construed as endorsement nor signing of it. (see[@sec:petition])
+
+##### **No Endorsement by Mention.** {#sec:no-endorsement-by-mention}  
+The mention of any historical, governmental, religious, or corporate structure within this Declaration shall not be construed as endorsement, re-establishment, recognition, or perpetuation of that structure.
+
 ## Closing
 
 \begingroup
@@ -1189,7 +1265,7 @@ They precede constitutions and outlast governments.
 
 Any state or association that honors them stands already in peaceful treaty with the Co-Sovereigns of this Declaration.
 
-IN WITNESS WHEREOF, I set my hand
+In Witness Whereof, I set my hand
 
 and seal this _______ day of ___________________________, 20 ______,
 
