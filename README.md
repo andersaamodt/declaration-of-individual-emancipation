@@ -36,9 +36,48 @@ To render the PDF, you must have:
 - [Pandoc](https://pandoc.org/)
 - A LaTeX distribution (e.g., TeX Live, MiKTeX, MacTeX)
 
+### Installation
+
+To use `render.sh`, install **Pandoc**, **LaTeX**, and **pandoc-crossref**.
+
+#### Linux (Debian/Ubuntu)
+
+```bash
+sudo apt update
+sudo apt install pandoc texlive-full pandoc-crossref -y
+```
+
+#### macOS (Homebrew)
+
+```bash
+brew install pandoc pandoc-crossref
+brew install --cask mactex
+# If needed, add LaTeX to your PATH:
+export PATH="/Library/TeX/texbin:$PATH"
+```
+
+#### Windows (via WSL)
+
+Pandoc and LaTeX can run natively on Windows, but `render.sh` works best under WSL.
+
+```powershell
+wsl --install -d Ubuntu
+```
+
+Then open Ubuntu and run:
+
+```bash
+sudo apt update
+sudo apt install pandoc texlive-full pandoc-crossref -y
+./render.sh
+```
+
+This setup behaves like Linux and avoids path and quoting issues on native Windows.
+
 ### Usage
 
 To generate your own PDF of the Declaration from `declaration.md`:
 
 ```bash
 ./render.sh
+```
