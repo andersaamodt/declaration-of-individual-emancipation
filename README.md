@@ -30,7 +30,7 @@ To render the PDF, you must have:
 
 ### Usage
 
-To generate a PDF of the Declaration:
+To generate your own PDF of the Declaration from `declaration.md`:
 
 ```bash
 ./render.sh
