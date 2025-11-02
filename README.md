@@ -4,6 +4,12 @@
 
 This repository contains a living draft **Declaration of Individual Emancipation**, outlining principles of personal sovereignty, rights, and voluntary association for individuals. The text is intended as a foundation for self-governance and ethical interaction, and may be adopted, adapted, or used piecemeal to suit the beliefs and conscience of those who interact with it.
 
+This document competes with similar documents in the following ways:
+
+1. This Declaration exhaustively lists all the grievances and rights that a decent individualist might care about, making it the most comprehensive such document.
+2. It is legally- and historically-grounded, and written to appeal to laypersons, lawyers, and political scholers alike.
+3. It contains extensive footnotes which link this Declaration (particularly its grievances and claims to authority) to prior work, legal precedents, and historical facts.
+
 ## Files
 
 - `declaration.md` — The main Markdown source of the Declaration, including Preamble, Maxims, Grievances, Bill of Rights, and Constitution sections.
