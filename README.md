@@ -35,6 +35,7 @@ To render the PDF, you must have:
 
 - [Pandoc](https://pandoc.org/)
 - A LaTeX distribution (e.g., TeX Live, MiKTeX, MacTeX)
+- pandoc-crossref (plugin)
 
 ### Installation
 
