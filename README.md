@@ -5,7 +5,7 @@
 
 ---
 
-This repository contains a **living draft** of the *Declaration of Individual Emancipation*—a statement of personal sovereignty, rights, and voluntary association. It’s meant as both a philosophical and practical framework for self-governance, open for anyone to adopt, adapt, or use piecemeal according to their own views and conscience.
+This repository contains a **living draft** of the *Declaration of Individual Emancipation*—a statement of personal sovereignty, rights, and voluntary association. It’s meant as both a theoretical and practical basis for self-governance, open for anyone to adopt, adapt, or use piecemeal according to their own views and conscience.
 
 ### What Makes It Different
 
