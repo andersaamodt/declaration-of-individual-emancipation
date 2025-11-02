@@ -20,7 +20,7 @@ This version is still incomplete. Governments have committed so many abuses, in 
 ### Contributing
 
 Feedback and improvements are encouraged. Open **Issues** or **Pull Requests** to suggest changes.  
-This project treats git and GitHub as tools for collaborative authorship—a working model of voluntary, distributed self-governance, similar to how the Nostr protocol was built.
+This project treats git and GitHub as tools for collaborative authorship—a working model of voluntary, distributed self-governance, similar to how [Nostr](https://github.com/nostr-protocol/nostr) protocol [was built](https://github.com/nostr-protocol/nips).
 
 ## Files
 
